@@ -1,0 +1,63 @@
+{
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2022-06-18 01:04:54 +0000"
+    },
+    "done": true
+  },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2022-06-18 01:04:54 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2022-06-18 01:04:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2022-06-18 01:04:54 +0000"
+    },
+    "done": true
+  },
+  "resourcefulbees:resourcefulbees/root": {
+    "criteria": {
+      "inventory_changed": "2022-06-18 01:04:53 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2022-06-18 01:04:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2022-06-18 01:04:54 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2022-06-18 01:04:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mountains": "2022-06-18 01:06:09 +0000"
+    },
+    "done": false
+  },
+  "apotheosis:give_book": {
+    "criteria": {
+      "tick": "2022-06-18 01:04:54 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}

@@ -1,0 +1,19 @@
+{
+	id: "6d6bc815-3356-4717-8983-87b89911ceb6"
+	type: "player"
+	player_name: "lilascar"
+	ranks: {
+		6d6bc815-3356-4717-8983-87b89911ceb6: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "lilascar"
+		"ftbteams:color": "#FFB859"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}
